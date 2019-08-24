@@ -10,7 +10,7 @@ Python3
 ## Important Metrics
 a - Sucess Metrics: Number of products/packages a partner has in their store
 
-b-  Lagginf Metrics: Revenue, basketsize 
+b-  Lagging Metrics: Revenue, basketsize 
 
 ## Features needed for the Analysis 
 - Verticals they sell to
