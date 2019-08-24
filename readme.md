@@ -4,7 +4,7 @@
 ### Language used:
 Python3
 
-*Make sure you have all the libraries used installed and compatible with python3
+*Make sure you have all the neded libraries installed and compatible with python3
 
 
 ## Important Metrics
